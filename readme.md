@@ -104,7 +104,7 @@ https://hub.docker.com/r/kavita493/mywebsite
   ```
 - **Dependencies:** Verify that Docker and Docker Compose are installed and running correctly on your system.
 
-# SIT737-2025-Prac2P: Microservice Deployment on GCP
+# SIT737-2025-Prac5.2D: Microservice Deployment on GCP
 
 ## Project Overview
 This project demonstrates the deployment of a microservice on Google Cloud Platform (GCP) using Docker and Google Artifact Registry. The microservice is built with Node.js and deployed in a containerized environment.
